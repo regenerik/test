@@ -2,7 +2,7 @@
 
 function BinarioADecimal(num) {
   // tu codigo aca
-
+//modif
 }
 
 function DecimalABinario(num) {
